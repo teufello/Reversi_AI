@@ -1,8 +1,14 @@
-
-## Reversi Game
+# Reversi Game
 
 Welcome to our implementation of the classic Reversi game with AI opponents!
 
+## Work Distribution
+Implementation/tasks	              Member
+Basic Game Engine	                 Max
+Monte Carlo Tree Search	           Louis
+Minimax	                           Max
+Benchmarking against random player	Ben
+AI vs AI mode	                     Ben
 
 ## Table of Contents
 - [Game Overview](#game-overview)
